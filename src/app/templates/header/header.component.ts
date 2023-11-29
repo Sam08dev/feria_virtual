@@ -11,14 +11,11 @@ export class HeaderComponent implements OnInit{
   constructor(public router:Router){}
 
   public menus : any = [
-    {option:"book"},
-    {option:"author"},
-    {option:"editorial"},
-    {option:"employee"},
-    {option:"genre"},
-    {option:"rack"},
-    {option:"reserve"},
-    {option:"user"}
+    {option:"Registro"},
+    {option:"Gestion de ferias vituales"},
+    {option:"Creación de ferias virtuales"},
+    {option:"Modificación de ferias virtuales"},
+
   ];
 
   ngOnInit(): void {
