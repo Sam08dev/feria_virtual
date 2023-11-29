@@ -1,0 +1,14 @@
+# pack-refs with: peeled fully-peeled sorted 
+8a2d90bd6b50ca2aaee488de500d8d586cc7fcef refs/heads/Caleb
+66122764386bbe4aa1898669893e1ad6127a820e refs/heads/Genesis
+d25ddbee7cf9fb9a1f4578749adcde220eb2b9a5 refs/heads/Oscar
+210442f0f15701b1c3198eb373bbd1bf75f3df66 refs/heads/development
+aaa58c386b976d4727ba6ae01baafc3da32cec0d refs/heads/main
+6b8ab019654aa16b0afe1ad6e8e8da6c84b5f374 refs/pull/1/head
+68d826208d2b1ce2ee0ab9de06fce9b6d12aad14 refs/pull/2/head
+68d826208d2b1ce2ee0ab9de06fce9b6d12aad14 refs/pull/3/head
+81949dd35c1922f20a39d6aa29422742ebfbebe1 refs/pull/4/head
+81949dd35c1922f20a39d6aa29422742ebfbebe1 refs/pull/5/head
+81949dd35c1922f20a39d6aa29422742ebfbebe1 refs/pull/6/head
+082649376ec51d7c291a81fdce4ae95c89d722a7 refs/pull/7/head
+9a2c05db895e060c0d8d1bb25cacb5ed2c1b646d refs/pull/8/head
